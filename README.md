@@ -5,9 +5,10 @@
 Currently I'm focusing on HTML Email development. Like making a cool Email Templete for client feedback or advertisements,
 also making professional Email Signatures to attach at the end of your email.
 
-I have also made many projects which are uploaded on Github, feel free to take a look on my Repositories.
+I have also made many Web projects with different concepts, I like to test around and find new ideas to play with. 
+you can find some of my projects uploaded Here on Github, feel free to take a look on my Repositories.
 
-### Thanks for Visiting.
+### Thanks for Visiting my profile.
 
 <!--
 **SEZ4/sez4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
